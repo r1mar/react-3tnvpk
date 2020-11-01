@@ -3,3 +3,8 @@
 *.json eol=lf
 *.jpeg -text
 *.png -text
+*.woff -text
+*.woff2 -text
+*.eot -text
+*.svg -text
+*.ttf -text
